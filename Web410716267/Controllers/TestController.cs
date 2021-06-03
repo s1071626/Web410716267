@@ -21,5 +21,9 @@ namespace Web410716267.Controllers
         {
             return View();
         }
+        public ActionResult HW3()
+        {
+            return View();
+        }
     }
 }
