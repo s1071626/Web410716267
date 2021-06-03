@@ -23,6 +23,7 @@ namespace Web410716267.Controllers
         }
         public ActionResult HW3()
         {
+            ViewBag.yytty = "hahaha";
             return View();
         }
     }
